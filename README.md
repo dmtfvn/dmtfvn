@@ -18,7 +18,4 @@ My main interest ATM is everything and anything related to Front-End development
 	<img width="40" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 	<img width="40" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 	<img width="40" alt="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
-	<img width="40" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-	<img width="40" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-	<img width="40" alt="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 </div>
