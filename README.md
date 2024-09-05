@@ -6,8 +6,8 @@ My main interest ATM is everything and anything related to Front-End development
 
 ## Contacts
 
-[<img width="30" align="left" alt="LinkedIn" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/>](https://www.linkedin.com/in/dimitar-georgiev-dmt/)
-[<img width="30" alt="LinkedIn" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg"/>](mailto:dmtfvn@gmail.com)
+[<img width="30" alt="LinkedIn" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/>](https://www.linkedin.com/in/dimitar-georgiev-dmt/)
+[<img width="30" alt="Gmail" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg"/>](mailto:dmtfvn@gmail.com)
 
 ## Technologies and Tools
 
