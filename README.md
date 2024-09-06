@@ -1,8 +1,8 @@
-## Hi everyone 👋 My name is Dimitar!
+## Hi everyone 👋 I'm Dimitar!
 
 An Industrial Design Engineer, who currently studies JavaScript.
 
-My main interest ATM is everything and anything related to Front-End development.
+My main interest ATM is everything and anything related to Front-End and Back-End.
 
 ## Contacts
 
