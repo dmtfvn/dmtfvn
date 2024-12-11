@@ -6,8 +6,8 @@ My primary focus at the moment is everything and anything related to Front-End a
 
 ## Contacts
 
-[<img width="30" alt="LinkedIn" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/>](https://www.linkedin.com/in/dimitar-georgiev-dmt/)
-[<img width="30" alt="Gmail" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg"/>](mailto:dmtfvn@gmail.com)
+[<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn" width="30">](https://www.linkedin.com/in/dimitar-georgiev-dmt/)
+[<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="Gmail" width="30">](mailto:dmtfvn@gmail.com)
 
 ## Technologies and Tools
 
