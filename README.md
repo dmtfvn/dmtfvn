@@ -11,9 +11,14 @@ My primary focus at the moment is everything and anything related to Front-End a
 
 ## Technologies and Tools
 
-[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40">](#)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40">](#)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40">](#)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40">](#)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40">](#)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg" alt="mocha" width="40">](#)
