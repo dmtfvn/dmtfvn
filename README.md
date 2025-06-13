@@ -1,8 +1,6 @@
 ## Hey You 👋 I'm Dimitar!
 
-An Industrial Design Engineer currently studying JavaScript.
-
-My primary focus at the moment is everything and anything related to Front-End and Back-End.
+An Industrial Design Engineer with a focus on everything related to Front-End and Back-End.
 
 ## Contacts
 
@@ -14,9 +12,12 @@ My primary focus at the moment is everything and anything related to Front-End a
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40">](#)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40">](#)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40">](#)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40">](#)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40">](#)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40">](#)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40">](#)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40">](#)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40">](#)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40">](#)
